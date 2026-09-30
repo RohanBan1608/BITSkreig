@@ -22,6 +22,8 @@ d: running zsteg to check LSB
 
 e: I got the base64 string, which I then decoded using an online tool
 
+## Flag: picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
+
 ## Takeaway: What LSB is, and how to run zsteg next time to check files.
 
 
