@@ -6,7 +6,7 @@ So, I had to look up on cryptography about RSA, N, and e, and what all that mean
 ## Solution
 
 a: Running the instance
-[N, e](screenshots/image2.png)
+![N, e](screenshots/image2.png)
 
 
 b: My code:
@@ -31,7 +31,7 @@ print(message)
 
 c: Output:
 
-[output](screenshots/image3.png)
+![output](screenshots/image3.png)
 
 
 ## Flag: academy{tw0_1$_pr!m39067edcb}
