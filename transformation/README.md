@@ -11,7 +11,7 @@ c = "慣慤敭祻ㄶ形楴獟楮獴㌴摟潦弸強㤰扡㌷敽"
 flag = "".join((chr(ord(ch) >> 8) + chr(ord(ch)%256)) for ch in c)
 print(flag)
 
-![python code](screenshots/simage.png)
+![python code](screenshots/image.png)
 
 
 ## Flag: academy{16_bits_inst34d_of_8_790ba37e}
